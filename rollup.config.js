@@ -70,7 +70,8 @@ export default {
 			}),
 			svelte({
 				generate: 'ssr',
-				dev
+				dev,
+				preprocess: autoPreprocess()
 			}),
 			resolve({
 				dedupe: ['svelte']
