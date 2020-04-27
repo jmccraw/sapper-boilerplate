@@ -1,6 +1,6 @@
 # Sapper Boilerplate
 
-The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack, along with [Sequelize](https://sequelize.org/v5/index.html) (minus the [database install](https://sequelize.org/v5/manual/getting-started)), and [Sass with Svelte-Preprocess](https://linguinecode.com/post/add-sass-svelte-js).
+The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack, along with [Sequelize](https://sequelize.org/v5/index.html) (minus the [database install](https://sequelize.org/v5/manual/getting-started)), and [Sass with Svelte-Preprocess](https://linguinecode.com/post/add-sass-svelte-js), plus [Sapper integration](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9).
 
 
 ## Getting started
